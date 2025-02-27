@@ -11,7 +11,7 @@
                               /____/                           
 ```
 
-**vibecoded by wanazhar x claude 3.7 sonnet**
+**another vibecode / work in progress**
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -51,7 +51,7 @@ CachingTools is a terminal-based application that helps you efficiently work wit
 1. **Clone the repository or download the files:**
 
 ```bash
-git clone https://github.com/yourusername/cachingtools.git
+git clone https://github.com/wanazhar/cachingtools.git
 cd cachingtools
 ```
 
